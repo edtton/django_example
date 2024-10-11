@@ -1,0 +1,11 @@
+body { 
+    display: flex;
+    justify-content: center;
+    background-color: darkolivegreen;
+}
+
+p, form {
+    color:antiquewhite;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
